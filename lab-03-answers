@@ -1,9 +1,9 @@
 ANSWERS
 
 (2)
-(c) Training MSE: XXXX
-(d) Test MSE: XXXX 
-(e) Your answer: XXXX
+(c) Training MSE: 1.5350956362420847
+(d) Test MSE: 1.7543308610948383 
+(e) Your answer: It says that my model predicts the target value better than simply using the mean of the target values.
 
 
 (3)
