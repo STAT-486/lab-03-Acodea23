@@ -1,23 +1,23 @@
 ANSWERS
 
 (2)
-(c) Training MSE: 1.5350956362420847
-(d) Test MSE: 1.7543308610948383 
+(c) Training MSE: 1.5350956362420871
+(d) Test MSE: 1.7543308610948378 
 (e) Your answer: It says that my model predicts the target value better than simply using the mean of the target values.
 
 
 (3)
 (b) 
-Feature 1: XXXX (coef: XXXX)
-Feature 2: XXXX (coef: XXXX)
-Feature 3: XXXX (coef: XXXX)
+Feature 1: x0 x2 (coef: 147.569766)
+Feature 2: x0 x5 (coef: 35.153778)
+Feature 3: x0 x1 (coef: 32.217666)
 
 (c) 
-Feature 1: XXXX (coef: XXXX)
-Feature 2: XXXX (coef: XXXX)
-Feature 3: XXXX (coef: XXXX)
+Feature 1:  x2  (coef: -146.550613)
+Feature 2:  x1  (coef: -37.244657)
+Feature 3:  x5  (coef: -34.383804)
 
-(d) y-intercept: XXXX 
+(d) y-intercept: 11.607865265528682 
 
 (4) 
 (c1) Best hyperparameters: 
