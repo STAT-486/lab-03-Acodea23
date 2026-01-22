@@ -21,14 +21,14 @@ Feature 3:  x5  (coef: -34.383804)
 
 (4) 
 (c1) Best hyperparameters: 
-* strategy: XXXX
-* poly degree: XXXX
-* n neighbors: XXXX
-* weight: XXXX
-(c2) Best MSE: XXXX
-(d) Time: XXXX
-(f) test MSE: XXXX 
-(g) Your answer: XXXX
+* strategy: median
+* poly degree: 3
+* n neighbors: 10
+* weight: distance
+(c2) Best MSE: 1.139245024251028
+(d) Time: 3 min 30 sec
+(f) test MSE: 5.242008406071593e-13 
+(g) Your answer: Yes
 
 (5) - (Repeat of (4) with RandomizedGridSearch)
 (c1) Best hyperparameters: 
