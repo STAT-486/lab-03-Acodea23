@@ -43,9 +43,9 @@ Feature 3:  x5  (coef: -34.383804)
 (h) Your answer: The MSE was only marginally better for the GridSearch than the RandomizedSearch, but GridSearch took significantly longer to run.
 
 (6) 
-(b1) Training MSE: XXXX
-(b2) Test MSE: XXXX 
-(c) Your answer: XXXX
+(b1) Training MSE: 7.879125857109711e-13
+(b2) Test MSE: 1.462377671136538 
+(c) Your answer: No, it does not improve predictability. The training MSE is comparable, but the Test MSE is much high, which indicates potential overfitting.
 
 (7) 
 (b) Your answer: XXXX
