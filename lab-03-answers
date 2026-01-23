@@ -32,15 +32,15 @@ Feature 3:  x5  (coef: -34.383804)
 
 (5) - (Repeat of (4) with RandomizedGridSearch)
 (c1) Best hyperparameters: 
-* strategy: XXXX
-* poly degree: XXXX
-* n neighbors: XXXX
-* weight: XXXX
-(c2) Best MSE: XXXX
-(d) Time: XXXX
-(f) test MSE: XXXX 
-(g) Your answer: XXXX
-(h) Your answer: XXXX
+* strategy: median
+* poly degree: 2
+* n neighbors: 65
+* weight: distance
+(c2) Best MSE: 1.4498174767129792
+(d) Time: 8.8 sec
+(f) test MSE: 8.379425012115072e-12 
+(g) Your answer: Yes
+(h) Your answer: The MSE was only marginally better for the GridSearch than the RandomizedSearch, but GridSearch took significantly longer to run.
 
 (6) 
 (b1) Training MSE: XXXX
